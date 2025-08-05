@@ -7,6 +7,8 @@ import ProductDetail from './Components/ProductDetail'
 const App = () => {
   return (
     <div>
+      <h3>Hello Hammad</h3>
+      <h1>Hello Majid</h1>
       <BrowserRouter>
       <Routes>
         
